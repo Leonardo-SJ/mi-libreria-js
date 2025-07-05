@@ -1,5 +1,5 @@
 # mi-libreria-js
-Traductor Automático en JavaScript
+## Traductor Automático en JavaScript
 
 Esta librería permite traducir automáticamente los textos visibles de una página web usando JavaScript puro y la API gratuita de [MyMemory](https://mymemory.translated.net/). No se necesita ninguna librería externa ni estructura especial.
 
@@ -10,7 +10,7 @@ Archivos
 
 Instalación
 Se debera descargar de este repositorio
-<script src="traductor.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Leonardo-SJ/mi-libreria-js/traductor.js"></script>
  
 Uso
 

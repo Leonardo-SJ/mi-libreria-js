@@ -70,3 +70,10 @@ Implementacion con HTML
 </html>
 
 ![image](https://github.com/user-attachments/assets/e36ac6e4-3434-4ca7-9c66-197a3356d75b)
+
+![image](https://github.com/user-attachments/assets/e2f77ef6-2eed-4d95-b8b4-010c4c118765)
+
+![image](https://github.com/user-attachments/assets/657da29d-a4ae-4c6c-a66f-6c5f42b04ff4)
+
+![image](https://github.com/user-attachments/assets/0bc16ad1-ff6e-43e7-a77a-7541d82a19ed)
+

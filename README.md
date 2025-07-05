@@ -9,7 +9,7 @@ Archivos
 - traductor.js → contiene la lógica de traducción (esta librería).
 
 Instalación
-Se debera descargar de este reporitorio
+Se debera descargar de este repositorio
 <script src="traductor.js"></script>
  
 Uso

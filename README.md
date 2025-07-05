@@ -13,7 +13,7 @@ Archivos
 <script src="https://cdn.jsdelivr.net/gh/Leonardo-SJ/mi-libreria-js/traductor.js"></script>
 
 2. Añadir un selector:
-3. 
+   
 <!DOCTYPE html>
 <html lang="es">
 <head>

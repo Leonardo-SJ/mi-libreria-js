@@ -13,13 +13,14 @@ Se debera descargar de este reporitorio
 <script src="traductor.js"></script>
  
 Uso
+
 ¿Qué traduce?
 Textos visibles en el cuerpo del documento (etiquetas h1, p, button, etc.).
 
 No traduce atributos como placeholder, title, alt, ni texto dentro de nodos con HTML complejo
 Implementacion con HTML
 
-'''HTML
+
 <!DOCTYPE html>
 <html lang="es">
 <head>

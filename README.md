@@ -13,6 +13,7 @@ Archivos
 <script src="https://cdn.jsdelivr.net/gh/Leonardo-SJ/mi-libreria-js/traductor.js"></script>
 
 2. Añadir un selector:
+'''HTML
 <div class="mb-4 text-center w-100">
   <label for="idioma" class="form-label fw-bold">🌐 Idioma</label>
   <select class="form-select w-auto mx-auto" id="idioma">

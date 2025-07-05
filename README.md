@@ -7,6 +7,7 @@ Se debera descargar de este reporitorio
 
 Uso
 Implementacion con HTML
+'''HTML
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -73,7 +74,11 @@ Implementacion con HTML
 
 ![image](https://github.com/user-attachments/assets/e2f77ef6-2eed-4d95-b8b4-010c4c118765)
 
-![image](https://github.com/user-attachments/assets/657da29d-a4ae-4c6c-a66f-6c5f42b04ff4)
+![image](https://github.com/user-attachments/assets/b2d65557-4b3d-4aa4-a74b-4a9706a12a19)
 
-![image](https://github.com/user-attachments/assets/0bc16ad1-ff6e-43e7-a77a-7541d82a19ed)
+![image](https://github.com/user-attachments/assets/f14e5b7a-7f5c-490e-a75b-48a3537f219d)
+
+![image](https://github.com/user-attachments/assets/707c6c6e-4a37-4ffe-9a2a-ccf4656b3e8c)
+
+![image](https://github.com/user-attachments/assets/4570273e-6f03-4d17-a26b-5df24eae3258)
 

@@ -13,27 +13,26 @@ Archivos
 <script src="https://cdn.jsdelivr.net/gh/Leonardo-SJ/mi-libreria-js/traductor.js"></script>
 
 2. Añadir un selector:
+3. 
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Login Multilenguaje</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  
 </head>
-<body>
-<div class="mb-4 text-center w-100">
-  <label for="idioma" class="form-label fw-bold">🌐 Idioma</label>
-  <select class="form-select w-auto mx-auto" id="idioma">
-    <option value="es">Español</option>
-    <option value="en">English</option>
-    <option value="zh">Chino</option>
-    <option value="ja">Japonés</option>
-    <option value="pt">Portugués</option>
-    <option value="de">Alemán</option>
-    <option value="fr">Francés</option>
-  </select>
-</div>
+<body >
+      <select class="form-select w-auto mx-auto" id="idioma">
+        <option value="es">Español</option>
+        <option value="en">English</option>
+        <option value="zh">Chino</option>
+        <option value="ja">Japonés</option>
+        <option value="pt">Portugués</option>
+        <option value="de">Alemán</option>
+        <option value="fr">Francés</option>
+      </select>
+  
 </body>
 </html>
  

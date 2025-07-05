@@ -25,7 +25,7 @@ Archivos
   <option value="de">Alemán</option>
   <option value="fr">Francés</option>
 </select>
- 
+ ```html
 ### Uso
 
 ¿Qué traduce?

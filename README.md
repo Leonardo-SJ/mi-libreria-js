@@ -13,7 +13,6 @@ Archivos
 <script src="https://cdn.jsdelivr.net/gh/Leonardo-SJ/mi-libreria-js/traductor.js"></script>
 
 2. Añadir un selector:
-3. 
 ```html
 <select class="form-select w-auto mx-auto" id="idioma">
   <option value="es">Español</option>
@@ -25,7 +24,7 @@ Archivos
   <option value="de">Alemán</option>
   <option value="fr">Francés</option>
 </select>
- ```html
+```
 ### Uso
 
 ¿Qué traduce?

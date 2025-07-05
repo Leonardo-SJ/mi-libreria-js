@@ -9,8 +9,22 @@ Archivos
 - traductor.js → contiene la lógica de traducción (esta librería).
 
 ### Instalación
-Se debera descargar de este repositorio
+1. Agregar esta etiqueta:
 <script src="https://cdn.jsdelivr.net/gh/Leonardo-SJ/mi-libreria-js/traductor.js"></script>
+
+2. Añadir un selector:
+<div class="mb-4 text-center w-100">
+  <label for="idioma" class="form-label fw-bold">🌐 Idioma</label>
+  <select class="form-select w-auto mx-auto" id="idioma">
+    <option value="es">Español</option>
+    <option value="en">English</option>
+    <option value="zh">Chino</option>
+    <option value="ja">Japonés</option>
+    <option value="pt">Portugués</option>
+    <option value="de">Alemán</option>
+    <option value="fr">Francés</option>
+  </select>
+</div>
  
 ### Uso
 
@@ -39,7 +53,6 @@ Implementacion con HTML
       <select class="form-select w-auto mx-auto" id="idioma">
         <option value="es">Español</option>
         <option value="en">English</option>
-        <option value="ru">Ruso</option>
         <option value="zh">Chino</option>
         <option value="ja">Japonés</option>
         <option value="pt">Portugués</option>
